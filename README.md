@@ -1,5 +1,5 @@
 
-<div style="background: grey; color:white; padding: 100px; display: flex; flex-direction: column; align-items: center" >
+<div align="center" style="background: grey; color:white; padding: 100px; " >
 <h1> Hi there, I'm Artem Gaev 
 <img alt="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
