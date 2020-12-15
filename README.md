@@ -5,23 +5,16 @@
 
 ### My contacts:
 
-<div style="display: inline-flex; flex-direction: row; align-items: center">
+<br/>
 
-<div style="margin: 20px">
+[<img align="center" alt="vibhorchaudhary | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="center" alt="vibhorchaudhary | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 
-[<img alt="vibhorchaudhary | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-</div>
-
-<div style="margin: 20px">
-
-[<img alt="vibhorchaudhary | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-</div>
-
-</div>
+<br/>
 
 ### Languages and Tools:
+
+<br/>
 
 <p>
       <a href="https://reactjs.org/" target="_blank">
@@ -46,6 +39,8 @@
       <a href="https://heroku.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
       </a>
+<br/>
+<br/>
       <a href="https://jestjs.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
       </a>
@@ -75,4 +70,5 @@
 
 [telegram]: https://telegram.me/gaev_art
 
+<br/>
 </div>
