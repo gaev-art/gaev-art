@@ -7,7 +7,7 @@
 
 <br/>
 
-[<img align="center" alt="vibhorchaudhary | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="center" alt="vibhorchaudhary | LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged_Highlight-15-256.png"/>][linkedin]
 [<img align="center" alt="vibhorchaudhary | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 
 <br/>
