@@ -6,8 +6,8 @@
   <summary><b> Talking about Personal Stuffs:</b></summary>
 <br>
 
-- 🛠 &nbsp; I’m currently working with React <br />
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I am currently working with React on Ruby on Rails <br />
+- 🚀 &nbsp; I'll be Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/gaev-art/gaev-art/blob/master/resume.pdf).
 
