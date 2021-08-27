@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hi+there,+I'm+Artem+Gaev!;Front-End+developer+from+Belarus.)](https://git.io/typing-svg)
 </div>
-<details>	
+<details style="border: solid">	
   <summary><b> Talking about Personal Stuffs:</b></summary>
+<br>
 
 - 🛠 &nbsp; I’m currently working with React <br />
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
@@ -11,8 +12,8 @@
 - 📝 &nbsp; Checkout my [Resume](https://github.com/gaev-art/gaev-art/blob/master/resume.pdf).
 
 </details>
-<hr>
-<details>
+<br>
+<details style="border: solid">
   <summary><b> Languages and Tools:</b></summary>
 <div align="center">
 <br>
@@ -31,10 +32,11 @@
 
 </div>
 </details>
-<hr>
-<details>
+<br>
+<details style="border: solid">
   <summary><b>Contact Me:</b></summary>
 <div align="center">
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/art%D1%91m-gaev-29a4551a8/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?&link=mailto:ing.miller.vega@gmail.com)](mailto:forsakensr@gmail.com)
@@ -46,4 +48,4 @@
 </div>
 
 </details>
-<hr>
+
