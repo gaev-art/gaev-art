@@ -24,9 +24,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
@@ -38,7 +36,7 @@
 <div align="center">
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/art%D1%91m-gaev-29a4551a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/artem-gaev-29a4551a8/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?&link=mailto:ing.miller.vega@gmail.com)](mailto:forsakensr@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white)](https://telegram.me/gaev_art)
 
