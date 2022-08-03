@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hi+there,+I'm+Artem+Gaev!;Front-End+developer+from+Belarus.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hi+there,+I'm+Artem+Gaev!;Front-End+developer.)](https://git.io/typing-svg)
 </div>
 <details style="border: solid">	
   <summary><b> Talking about Personal Stuffs:</b></summary>
