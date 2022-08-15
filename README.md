@@ -1,74 +1,57 @@
 <div align="center">
+<b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hi+there,+I'm+Artem+Gaev!;Front-End+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=25&duration=2500&pause=500&color=C9D1D9&center=true&vCenter=true&width=569&height=70&lines=Hey+there!+;I'm+Artem+Gaev!;+Front-End+Developer.)](https://git.io/typing-svg)
+
+</b>
 </div>
+<details >
+    <summary style="cursor: pointer"><b>Languages & Frameworks & Tools & Abilities:</b></summary>
+            <br>
+        <div align="center">
+            <a  href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" /></a>
+            <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
+            <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+            <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
+            <br>
+            <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" /></a>
+            <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a>
+            <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a>
+            <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" /></a>
+            <br>
+            <a href="https://www.github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+            <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+            <a href="https://www.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+            <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+            <br><br><b style="cursor: default"> Also worked with:</b><br><br>
+            <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> 
+            <a href="http://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a> 
+            <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>     
+            <a href="https://heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" /></a>
+            <br>
+            <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby" /></a>
+            <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails" /></a>
+            <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+            <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+            <br><br>
+        </div>
+        <br>
+</details>
 
-[//]: # (<details style="border: solid">	)
-
-[//]: # (  <summary><b> Talking about Personal Stuffs:</b></summary>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (- 🛠 &nbsp; I am currently working with React on Ruby on Rails <br />)
-
-[//]: # (- 🚀 &nbsp; I'll be Full Stack Development.)
-
-[//]: # (- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.)
-
-[//]: # (- 📝 &nbsp; Checkout my [Resume]&#40;https://github.com/gaev-art/gaev-art/blob/master/resume.pdf&#41;.)
-
-[//]: # ()
-[//]: # (</details>)
-
-[//]: # (<br>)
-
-[//]: # (<details style="border: solid">)
-
-[//]: # (  <summary><b> Languages and Tools:</b></summary>)
-
-[//]: # (<div align="center">)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="eee"/></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>)
-
-[//]: # (<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>)
-
-[//]: # (<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</details>)
-
-[//]: # (<br>)
-<details style="border: solid">
-  <summary><b>Contact Me:</b></summary>
-<div align="center">
-<br>
+<details>
+<summary style="cursor: pointer"><b>View My Contacts:</b></summary>
+<div align="center"><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/artem-gaev-29a4551a8/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?&link=mailto:ing.miller.vega@gmail.com)](mailto:forsakensr@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white)](https://telegram.me/gaev_art)
-
-[comment]: <> ([![Website Badge]&#40;https://img.shields.io/badge/Website-red&#41;]&#40;https://iampavangandhi.github.io/&#41;)
-
-
+<br><br>
 </div>
-
 </details>
+<br>
+<a style="color:#C9D1D9; text-decoration:none" href="https://github.com/gaev-art/gaev-art/blob/main/CV.pdf">Click me and view my resume</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gaev-art&label=Visited%20my%20profile:&color=0d1117&style=flat" align="right" style="width: 150px; cursor: pointer"/>
 
