@@ -1,7 +1,7 @@
 <div align="center">
 <b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=25&duration=2500&pause=500&color=C9D1D9&center=true&vCenter=true&width=569&height=70&lines=Hey+there!+;I'm+Artem+Gaev!;+Front-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=25&duration=2500&pause=500&color=3178C6&center=true&vCenter=true&width=569&height=70&lines=Hey+there!+;I'm+Artem+Gaev!;+Front-End+Developer.)](https://git.io/typing-svg)
 
 </b>
 </div>
