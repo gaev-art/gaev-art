@@ -42,7 +42,7 @@
 <summary style="cursor: pointer"><b>View My Contacts:</b></summary>
 <div align="center"><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/artem-gaev-29a4551a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/artsiom-gaev-29a4551a8/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?&link=mailto:ing.miller.vega@gmail.com)](mailto:forsakensr@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white)](https://telegram.me/gaev_art)
 <br><br>
