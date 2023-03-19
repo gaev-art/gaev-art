@@ -10,6 +10,7 @@
             <br>
         <div align="center">
             <a  href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" /></a>
+            <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
             <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
             <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
             <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
@@ -24,14 +25,16 @@
             <a href="https://www.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
             <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
             <br><br><b style="cursor: default"> Also worked with:</b><br><br>
-            <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> 
+            <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+            <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" /></a> 
             <a href="http://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a> 
             <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>     
             <a href="https://heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" /></a>
-            <br>
+             <br>
             <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby" /></a>
             <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails" /></a>
             <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+            <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
             <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
             <br><br>
         </div>
