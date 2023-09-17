@@ -52,7 +52,7 @@
 </div>
 </details>
 <br>
-<a style="color:#C9D1D9; text-decoration:none" href="https://drive.google.com/file/d/1moN0l97T8CaylsWANp1w8SDZLmgqgLeh/view?usp=sharing">Click me and view my resume</a>
+<!-- <a style="color:#C9D1D9; text-decoration:none" href="https://drive.google.com/file/d/1moN0l97T8CaylsWANp1w8SDZLmgqgLeh/view?usp=sharing">Click me and view my resume</a> -->
 
 <br><br>
 
