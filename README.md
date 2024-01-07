@@ -15,6 +15,7 @@
             <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
             <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
             <br>
+            <a  href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
             <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" /></a>
             <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a>
             <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a>
