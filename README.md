@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/Write%20to%20Me-26A5E4?logo=telegram&logoColor=white)](https://telegram.me/gaev_art)
 [![Static Badge](https://img.shields.io/badge/Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gaev_art)
 <br>
-[![Static Badge](https://img.shields.io/badge/Let's%20Workout-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/47891479)
+[![Static Badge](https://img.shields.io/badge/Let's%20Workout-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/gaev_art)
 
 
 </div>
