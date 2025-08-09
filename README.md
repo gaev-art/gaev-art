@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Send%20Email-D14836?logo=gmail&logoColor=white)](mailto:hayeu.art@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Join%20My%20Network-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaev-art)
+[![Static Badge](https://img.shields.io/badge/Join%20My%20Network-0077B5?logo=logmein&logoColor=white)](https://www.linkedin.com/in/gaev-art)
 <br>
 [![Static Badge](https://img.shields.io/badge/Write%20to%20Me-26A5E4?logo=telegram&logoColor=white)](https://telegram.me/gaev_art)
 [![Static Badge](https://img.shields.io/badge/Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gaev_art)
